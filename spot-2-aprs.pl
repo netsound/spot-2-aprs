@@ -1,4 +1,6 @@
 #!/usr/bin/perl
+# GPLv3 Copyright (C) 2014  Fredric Moses - fred@moses.bz
+# This script will will take JSON from api.findemespot.com and convert to APRS Format
 
 $spot_key = "!KEY!"; # SPOT API KEY For device... Must create public share page first and have data posted.
 $pass = "!PASS!"; # APRS passcode for igate callsign (passcode CALLSIGN on *nix systems)
