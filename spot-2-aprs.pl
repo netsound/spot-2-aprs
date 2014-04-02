@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
-$spot_key = "!!KEY!!"; # SPOT API KEY For device... Must create public share page first and have data posted.
-$pass = "!!PASS!!"; # APRS passcode for igate callsign (passcode CALLSIGN on *nix systems)
+$spot_key = "!KEY!"; # SPOT API KEY For device... Must create public share page first and have data posted.
+$pass = "!PASS!"; # APRS passcode for igate callsign (passcode CALLSIGN on *nix systems)
 $aprs_server = "198.105.228.71"; # APRS-IS server to connect to
 $aprs_port = "14580"; # Port of APRS-IS server normally 14580
 $callsign = "!!CALLSIGN!!"; # Callsign for cellular tracker
