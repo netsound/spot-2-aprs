@@ -10,4 +10,3 @@ You must have a spot tracker setup and transmitting data to a public share page.
 
 You can setup the script in cron to run every X based on your plan from spot.
 
-.
